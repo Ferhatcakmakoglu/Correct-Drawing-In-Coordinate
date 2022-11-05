@@ -1,5 +1,6 @@
 # Correct-Drawing-In-Coordinate
 [TR] Kullanıcıdan doğrusal bir denklem (ax + b formatında) alarak bu denklemin koordinat üzerinde çiziminin yapılması 
+<br />
 [EN]  Drawing a linear equation (in ax + b format) from the user on the coordinate
 
 example:
