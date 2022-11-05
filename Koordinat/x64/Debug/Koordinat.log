@@ -1,0 +1,9 @@
+﻿  Draw.cpp
+C:\Users\Ferhat\source\repos\c\Koordinat\Koordinat\Draw.h(15,10): warning C4101: 'yy': unreferenced local variable
+C:\Users\Ferhat\source\repos\c\Koordinat\Koordinat\Draw.h(15,7): warning C4101: 'xx': unreferenced local variable
+  Source.cpp
+C:\Users\Ferhat\source\repos\c\Koordinat\Koordinat\Draw.h(15,10): warning C4101: 'yy': unreferenced local variable
+C:\Users\Ferhat\source\repos\c\Koordinat\Koordinat\Draw.h(15,7): warning C4101: 'xx': unreferenced local variable
+C:\Users\Ferhat\source\repos\c\Koordinat\Koordinat\Source.cpp(8,29): warning C4101: 'kX': unreferenced local variable
+  Generating Code...
+  Koordinat.vcxproj -> C:\Users\Ferhat\source\repos\c\Koordinat\x64\Debug\Koordinat.exe
